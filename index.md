@@ -1,7 +1,5 @@
 ## Flight Simulator 2020 - SAQU - Argentina - Buenos Aires
 
-Flight Simulator 2020 - Freeware scenario Ezpeleta airstrip - SAQU
-
 Free to use airport.
 
 **Author: Cronch**
