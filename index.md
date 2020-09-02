@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Flight Simulator 2020 - SAQU - Argentina - Buenos Aires
 
-You can use the [editor on GitHub](https://github.com/Cronch/fs2020-saqu-scenary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Flight Simulator 2020 - Freeware scenario Ezpeleta airstrip - SAQU
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Free to use airport.
 
-### Markdown
+**Author: Cronch**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Always** give credit to the author if publishing information related to this mod on other places. Thank you!
 
-```markdown
-Syntax highlighted code block
+**Real life location:** https://www.bing.com/maps?osid=a9a12c7f-25f0-4d94-af79-ad4791eb2d5a&cp=-34.745394~-58.205139&lvl=18&style=h&v=2&sV=2&form=S00027
 
-# Header 1
-## Header 2
-### Header 3
+**Latest release download link:** https://github.com/Cronch/fs2020-saqu-scenary/releases/download/0.1.0/saqu-ezp-agnalim-0.1.0.zip Brief video showing changes: https://www.youtube.com/watch?v=vgfBa01RB9M
 
-- Bulleted
-- List
+### Installation:
 
-1. Numbered
-2. List
+1.Download zip file
+2.Extract it
+3.Move folder "agnalim-airport-saqu-ezpeleta" to your MSFS Community folder (just like any other scenary or addon)
 
-**Bold** and _Italic_ and `Code` text
+More fixes and scenarios are coming!
 
-[Link](url) and ![Image](src)
-```
+If you know this airstrip, please share pictures and any other kind of information so we can keep improving it. Also you can create issues so we can keep track of things that need to be fixed
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cronch/fs2020-saqu-scenary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**If you like my work:** https://paypal.me/GastonLeonardoG
