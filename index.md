@@ -26,16 +26,14 @@ If you know this airstrip, please share pictures and any other kind of informati
 **If you like my work:** [Donate](https://paypal.me/GastonLeonardoG). 
 
 ### Pictures:
-<img src="Annotation%202020-09-02%20111640.png" class="img-responsive" alt=""> </div>
-
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111640.png "Logo Title Text 1")
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111740.png "Logo Title Text 1")
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111757.png "Logo Title Text 1")
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111809.png "Logo Title Text 1")
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111821.png "Logo Title Text 1")
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111833.png "Logo Title Text 1")
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111845.png "Logo Title Text 1")
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111858.png "Logo Title Text 1")
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111910.png "Logo Title Text 1")
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111921.png "Logo Title Text 1")
-![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111934.png "Logo Title Text 1")
+<img src="Annotation%202020-09-02%20111640.png" class="img-responsive" alt="">
+<img src="Annotation%202020-09-02%20111740.png" class="img-responsive" alt="">
+<img src="Annotation%202020-09-02%20111757.png" class="img-responsive" alt="">
+<img src="Annotation%202020-09-02%20111809.png" class="img-responsive" alt="">
+<img src="Annotation%202020-09-02%20111821.png" class="img-responsive" alt="">
+<img src="Annotation%202020-09-02%20111833.png" class="img-responsive" alt="">
+<img src="Annotation%202020-09-02%20111845.png" class="img-responsive" alt="">
+<img src="Annotation%202020-09-02%20111858.png" class="img-responsive" alt="">
+<img src="Annotation%202020-09-02%20111910.png" class="img-responsive" alt="">
+<img src="Annotation%202020-09-02%20111921.png" class="img-responsive" alt="">
+<img src="Annotation%202020-09-02%20111934.png" class="img-responsive" alt="">
