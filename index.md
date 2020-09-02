@@ -26,6 +26,8 @@ If you know this airstrip, please share pictures and any other kind of informati
 **If you like my work:** [Donate](https://paypal.me/GastonLeonardoG). 
 
 ### Pictures:
+<img src="Annotation%202020-09-02%20111640.png" class="img-responsive" alt=""> </div>
+
 ![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111640.png "Logo Title Text 1")
 ![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111740.png "Logo Title Text 1")
 ![alt text](https://github.com/Cronch/fs2020-saqu-scenary/blob/gh-pages/Annotation%202020-09-02%20111757.png "Logo Title Text 1")
