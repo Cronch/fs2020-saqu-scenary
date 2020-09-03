@@ -3,7 +3,7 @@ Flight Simulator 2020 - Freeware scenario Ezpeleta airstrip - SAQU
 
 Free to use airport.
 
-Author: Cronch
+Author: Cronch - Agnalim
 
 Always give credit to the author if publishing information related to this mod on other places. Thank you!
 
