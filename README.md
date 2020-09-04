@@ -9,8 +9,8 @@ Always give credit to the author if publishing information related to this mod o
 
 Real life location: https://www.bing.com/maps?osid=a9a12c7f-25f0-4d94-af79-ad4791eb2d5a&cp=-34.745394~-58.205139&lvl=18&style=h&v=2&sV=2&form=S00027
 
-Latest release download link: https://github.com/Cronch/fs2020-saqu-scenary/releases/download/0.1.0/saqu-ezp-agnalim-0.1.0.zip
-Brief video showing changes: https://www.youtube.com/watch?v=vgfBa01RB9M
+Latest release download link: https://github.com/Cronch/fs2020-saqu-scenary/releases/download/0.2.0/saqu-ezp-agnalim-0.2.0.zip
+Brief video showing changes for v0.1.0 compared to default: https://www.youtube.com/watch?v=vgfBa01RB9M
 
 Installation:
 1) Download zip file
