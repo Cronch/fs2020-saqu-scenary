@@ -1,4 +1,4 @@
-## Flight Simulator 2020 - SAQU - Argentina - Buenos Aires
+## Flight Simulator 2020 - Aeroclub Rio de la Plata - Argentina - Buenos Aires
 
 Free to use airport.
 
