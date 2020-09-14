@@ -21,5 +21,3 @@ More fixes and scenarios are coming!
 
 If you know this airstrip, please share pictures and any other kind of information so we can keep improving it.
 Also you can create issues so we can keep track of things that need to be fixed
-
-If you like my work: https://paypal.me/GastonLeonardoG
