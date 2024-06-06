@@ -27,14 +27,9 @@ You can also support my work with a cafecito here:
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/cronch)
 
 ### Pictures:
-<img src="Annotation%202020-09-02%20111640.png" class="img-responsive" alt="">
-<img src="Annotation%202020-09-02%20111740.png" class="img-responsive" alt="">
-<img src="Annotation%202020-09-02%20111757.png" class="img-responsive" alt="">
-<img src="Annotation%202020-09-02%20111809.png" class="img-responsive" alt="">
-<img src="Annotation%202020-09-02%20111821.png" class="img-responsive" alt="">
-<img src="Annotation%202020-09-02%20111833.png" class="img-responsive" alt="">
-<img src="Annotation%202020-09-02%20111845.png" class="img-responsive" alt="">
-<img src="Annotation%202020-09-02%20111858.png" class="img-responsive" alt="">
-<img src="Annotation%202020-09-02%20111910.png" class="img-responsive" alt="">
-<img src="Annotation%202020-09-02%20111921.png" class="img-responsive" alt="">
-<img src="Annotation%202020-09-02%20111934.png" class="img-responsive" alt="">
+<img src="shot1.PNG" class="img-responsive" alt="">
+<img src="shot2.PNG" class="img-responsive" alt="">
+<img src="shot3.PNG" class="img-responsive" alt="">
+<img src="shot4.PNG" class="img-responsive" alt="">
+<img src="shot5.PNG" class="img-responsive" alt="">
+<img src="shot6.PNG" class="img-responsive" alt="">
